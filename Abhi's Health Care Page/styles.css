@@ -299,6 +299,7 @@ body{
 #moon{
     color: var(--patanjali-color);
 }
+/* right wala part */
 .right{
 width: calc(100vw-);
 display: flex;
